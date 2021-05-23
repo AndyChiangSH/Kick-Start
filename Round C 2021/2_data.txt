@@ -1,0 +1,8 @@
+255
+count1: k = 7, n = 17
+count1: k = 10, n = 15
+count1: k = 21, n = 10
+count1: k = 40, n = 6
+count1: k = 49, n = 5
+count1: k = 84, n = 3
+count1: k = 127, n = 2

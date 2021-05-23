@@ -1,0 +1,33 @@
+16
+2 3
+bc
+5 5
+abcdd
+1 5
+d
+5 5
+acbca
+4 4
+cbbc
+4 4
+acca
+4 4
+acda
+4 4
+adca
+6 4
+bbaacb
+6 4
+bcaabb
+1 10
+z
+2 2
+zz
+2 2
+bb
+2 2
+bc
+2 2
+cb
+2 2 
+ba

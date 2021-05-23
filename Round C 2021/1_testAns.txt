@@ -1,0 +1,48 @@
+2 3
+bc
+Case #1: 2
+5 5
+abcdd
+Case #2: 8
+1 5
+d
+Case #3: 3
+5 5
+acbca
+Case #4: 11
+4 4
+cbbc
+Case #5: 9
+4 4
+acca
+Case #6: 2
+4 4
+acda
+Case #7: 3
+4 4
+adca
+Case #8: 3
+6 4
+bbaacb
+Case #9: 21
+6 4
+bcaabb
+Case #10: 24
+1 10
+z
+Case #11: 10
+2 2
+zz
+Case #12: 2
+2 2
+bb
+Case #13: 1
+2 2
+bc
+Case #14: 2
+2 2
+cb
+Case #15: 2
+2 2 
+ba
+Case #16: 1
